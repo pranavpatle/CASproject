@@ -1,0 +1,47 @@
+10:50:05.296 [main] INFO  com.becognizant.testcases.TC003_GSDPage - --//beCognizant text Validation Done//--
+10:50:08.706 [main] INFO  com.becognizant.testcases.TC003_GSDPage - --//BeCognizant Profile Screenshot Taken//--
+10:50:38.804 [main] INFO  com.becognizant.testcases.TC003_GSDPage - --//OneCognizant text Validation Done//--
+10:50:44.771 [main] INFO  com.becognizant.testcases.TC003_GSDPage - --//Switch to OneCognizant from BeCognizant Done//--
+10:50:50.047 [main] INFO  com.becognizant.testcases.TC003_GSDPage - --//OneCognizant Screenshot Taken//--
+10:50:50.158 [main] INFO  com.becognizant.testcases.TC003_GSDPage - --//Search 'GSD' Done//--
+10:50:53.272 [main] INFO  com.becognizant.testcases.TC003_GSDPage - --//'GSD' Search Result Screenshot Taken//--
+10:51:23.437 [main] INFO  com.becognizant.testcases.TC003_GSDPage - --//Click on 'GSD' Done//--
+10:51:28.597 [main] INFO  com.becognizant.testcases.TC003_GSDPage - --//'GSD' Page Screenshot Taken//--
+10:51:28.691 [main] INFO  com.becognizant.testcases.TC003_GSDPage - --//Welcome Message Verified//--
+10:51:28.691 [main] INFO  com.becognizant.testcases.TC003_GSDPage - --//Browse Message Verified//--
+10:51:28.731 [main] INFO  com.becognizant.testcases.TC003_GSDPage - --//Default Language Verified//--
+10:51:28.771 [main] INFO  com.becognizant.testcases.TC003_GSDPage - --//Default Country Verified//--
+10:51:29.150 [main] INFO  com.becognizant.testcases.TC003_GSDPage - --//Screenshot taken showing all languages//--
+10:51:31.533 [main] INFO  com.becognizant.testcases.TC003_GSDPage - --//Screenshot taken showing all countries//--
+10:56:11.977 [main] INFO  com.becognizant.testcases.TC003_GSDPage - --//beCognizant text Validation Done//--
+10:56:15.396 [main] INFO  com.becognizant.testcases.TC003_GSDPage - --//BeCognizant Profile Screenshot Taken//--
+10:56:45.490 [main] INFO  com.becognizant.testcases.TC003_GSDPage - --//OneCognizant text Validation Done//--
+10:56:50.856 [main] INFO  com.becognizant.testcases.TC003_GSDPage - --//Switch to OneCognizant from BeCognizant Done//--
+10:56:56.166 [main] INFO  com.becognizant.testcases.TC003_GSDPage - --//OneCognizant Screenshot Taken//--
+10:56:56.286 [main] INFO  com.becognizant.testcases.TC003_GSDPage - --//Search 'GSD' Done//--
+10:56:59.452 [main] INFO  com.becognizant.testcases.TC003_GSDPage - --//'GSD' Search Result Screenshot Taken//--
+10:57:29.611 [main] INFO  com.becognizant.testcases.TC003_GSDPage - --//Click on 'GSD' Done//--
+10:57:34.799 [main] INFO  com.becognizant.testcases.TC003_GSDPage - --//'GSD' Page Screenshot Taken//--
+10:57:34.923 [main] INFO  com.becognizant.testcases.TC003_GSDPage - --//Welcome Message Verified//--
+10:57:34.929 [main] INFO  com.becognizant.testcases.TC003_GSDPage - --//Browse Message Verified//--
+10:57:34.967 [main] INFO  com.becognizant.testcases.TC003_GSDPage - --//Default Language Verified//--
+10:57:35.007 [main] INFO  com.becognizant.testcases.TC003_GSDPage - --//Default Country Verified//--
+10:57:35.380 [main] INFO  com.becognizant.testcases.TC003_GSDPage - --//Screenshot taken showing all languages//--
+10:57:37.695 [main] INFO  com.becognizant.testcases.TC003_GSDPage - --//Screenshot taken showing all countries//--
+10:59:52.030 [main] INFO  com.becognizant.testcases.TC003_GSDPage - --//beCognizant text Validation Done//--
+10:59:55.448 [main] INFO  com.becognizant.testcases.TC003_GSDPage - --//BeCognizant Profile Screenshot Taken//--
+11:00:25.530 [main] INFO  com.becognizant.testcases.TC003_GSDPage - --//OneCognizant text Validation Done//--
+11:00:32.324 [main] INFO  com.becognizant.testcases.TC003_GSDPage - --//Search 'GSD' Done//--
+11:00:35.508 [main] INFO  com.becognizant.testcases.TC003_GSDPage - --//'GSD' Search Result Screenshot Taken//--
+11:01:05.664 [main] INFO  com.becognizant.testcases.TC003_GSDPage - --//Click on 'GSD' Done//--
+11:01:10.800 [main] INFO  com.becognizant.testcases.TC003_GSDPage - --//'GSD' Page Screenshot Taken//--
+11:01:10.875 [main] INFO  com.becognizant.testcases.TC003_GSDPage - --//Welcome Message Verified//--
+11:01:10.875 [main] INFO  com.becognizant.testcases.TC003_GSDPage - --//Browse Message Verified//--
+11:01:10.917 [main] INFO  com.becognizant.testcases.TC003_GSDPage - --//Default Language Verified//--
+11:01:10.960 [main] INFO  com.becognizant.testcases.TC003_GSDPage - --//Default Country Verified//--
+11:01:11.413 [main] INFO  com.becognizant.testcases.TC003_GSDPage - --//Screenshot taken showing all languages//--
+11:01:13.965 [main] INFO  com.becognizant.testcases.TC003_GSDPage - --//All AVailable Languages Taken//--
+11:01:16.331 [main] INFO  com.becognizant.testcases.TC003_GSDPage - --//Screenshot taken showing all countries//--
+11:01:29.682 [main] INFO  com.becognizant.testcases.TC003_GSDPage - --//All AVailable Tickets of Default Country Taken//--
+11:07:30.016 [main] INFO  com.becognizant.testcases.TC003_GSDPage - --//beCognizant text Validation Done//--
+11:07:34.697 [main] INFO  com.becognizant.testcases.TC003_GSDPage - --//BeCognizant Profile Screenshot Taken//--
